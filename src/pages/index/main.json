@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "商品列表",
+  "usingComponents": {
+    "van-button": "../../static/weapp/button/index"
+  }
+}

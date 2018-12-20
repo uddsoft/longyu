@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "van-button": "../../static/weapp/button/index",
+    "van-search": "../../static/weapp/search/index",
+    "van-tabbar": "../../static/weapp/tabbar/index",
+    "van-tabbar-item": "../../static/weapp/tabbar-item/index"
+  }
+}

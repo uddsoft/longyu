@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "商品列表",
+  "usingComponents": {
+    "van-button": "../../static/weapp/button/index",
+    "van-search": "../../static/weapp/search/index",
+    "van-tabbar": "../../static/weapp/tabbar/index",
+    "van-tabbar-item": "../../static/weapp/tabbar-item/index"
+  }
+}
